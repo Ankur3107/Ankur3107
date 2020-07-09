@@ -30,7 +30,7 @@
 - Got **6th Rank** (Mar'20) in Stanford Question Answering Dataset SQuAD2.0
 - Solved Facebook BABI Task(NLP benchmarking) with **100% accuracy**
 
-### Top Performance on Machine Learning Competition 🚀
+### Top Performance in Machine Learning Competition 🚀
 
 - Kaggle Mercari Price Suggestion Challenge 2018 - Top 7%
 - Won Kaggle Weekly Kernel Award on August 31, 2018
