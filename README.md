@@ -5,6 +5,7 @@
 [![blog badge](https://img.shields.io/badge/blog-ankur.github.io-1f425f?style=flat-square)](https://ankur3107.github.io/)
 [![blog badge](https://img.shields.io/badge/personalwebsite-ankur.github.io/me-1f425f?style=flat-square)](https://ankur3107.github.io/me)
 [![blog badge](https://img.shields.io/badge/stackoverflow-ankur310794-1f425f?style=flat-square)](https://stackoverflow.com/users/4751214/ankur-singh)
+[![HitCount](http://hits.dwyl.com/ankur310794/ankur310794.svg)](http://hits.dwyl.com/ankur310794/ankur310794)
 
 ### Hi there, I'm Ankur 👋
 
@@ -36,4 +37,3 @@
 - Won Kaggle Weekly Kernel Award on August 31, 2018
 - Analytics Vidhya Knocktober 2016 - Top 3%
 - Analytics Vidhya The Ultimate Student Hunt 2016 - Top 4%
-
