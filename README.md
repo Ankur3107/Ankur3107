@@ -38,6 +38,78 @@
 - Analytics Vidhya The Ultimate Student Hunt 2016 - Top 4%
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 244 Contributions in the Year 2020
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 65 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    159 commits    █████░░░░░░░░░░░░░░░░░░░░   22.05% 
+🌆 Daytime    203 commits    ███████░░░░░░░░░░░░░░░░░░   28.16% 
+🌃 Evening    340 commits    ███████████░░░░░░░░░░░░░░   47.16% 
+🌙 Night      19 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.95% 
+Tuesday      113 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+Wednesday    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
+Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
+Friday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+Saturday     113 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+Sunday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         23 repos            █████████░░░░░░░░░░░░░░░░   35.94% 
+R                        14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.31% 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/Ankur3107/Ankur3107/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 [![HitCount](http://hits.dwyl.com/ankur310794/ankur310794.svg)](http://hits.dwyl.com/ankur310794/ankur310794)
