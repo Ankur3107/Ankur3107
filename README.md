@@ -1,4 +1,4 @@
-![hi](https://raw.githubusercontent.com/Ankur3107/me/master/images/menu/resume_btn.jpg)
+![hi](charts/evolution_of_ankur.png)
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-ankur310794-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankur310794/)
 [![twitter badge](https://img.shields.io/badge/twitter-@ankur310794-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/ankur310794)
